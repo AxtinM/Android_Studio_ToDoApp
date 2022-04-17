@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="appuyer_longuement_ici">appuyer longuement ici</string>
+    <string name="se_connecter">se connecter</string>
+    <string name="success_login_msg">You have successfully connected!</string>
+    <string name="error_login_msg">Wrong Credentials!</string>
+    <string name="todo_app">TODO App</string>
+    <string name="bienvenue_encore_une_fois">Bienvenue encore une fois</string>
+</resources>
